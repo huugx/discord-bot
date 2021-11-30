@@ -1,0 +1,8 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "repository": "https://github.com/kohrts/discord-bot.git",
+  "author": "kohrts",
+  "license": "MIT"
+}
